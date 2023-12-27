@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina330&label=Profile%20views&color=0e75b6&style=flat" alt="thilina330" /> </p>
 
-- 🌱 I’m currently learning **React, Meta**
-
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **thilinalakshan763@gmail.com**
 
