@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **thilinalakshan763@gmail.com**
+- 📫 How to reach me **thilinalakshanus515@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
 
